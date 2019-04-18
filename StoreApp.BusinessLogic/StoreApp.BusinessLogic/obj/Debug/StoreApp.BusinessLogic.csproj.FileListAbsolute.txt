@@ -1,0 +1,48 @@
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.BusinessLogic.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.BusinessLogic.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.BusinessLogic.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.EventData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.LanguageData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.ProductData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.EventData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.EventData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.LanguageData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.LanguageData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.ProductData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.ProductData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.csproj.CopyComplete
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.BusinessLogic.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.BusinessLogic.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.BusinessLogic.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.EventData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.LanguageData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.ProductData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.EventData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.EventData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.LanguageData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.LanguageData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.ProductData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\StoreApp.ProductData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.csproj.CopyComplete
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.BusinessLogic\obj\Debug\StoreApp.BusinessLogic.pdb

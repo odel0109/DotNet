@@ -1,0 +1,16 @@
+﻿@{
+    int i = 0;
+    while (i < Model.Objects.Count())
+    {
+        var rowProducts = Model.Objects.Skip(i).Take(3);
+
+        <div class="box1">
+            @foreach (var product in rowProducts)
+            {
+                @Html.Partial("ProductItem", product);
+            }
+        </div>
+
+        i += 3;
+    }
+}

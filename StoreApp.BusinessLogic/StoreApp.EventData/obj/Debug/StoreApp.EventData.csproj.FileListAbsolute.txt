@@ -1,0 +1,36 @@
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.EventData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.EventData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.EventData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.Migrations.EventMigration.resources
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csproj.GenerateResource.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csproj.CopyComplete
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.Migrations.EventMigration10042019.resources
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.EventData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.EventData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.EventData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.Migrations.EventMigration.resources
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.Migrations.EventMigration10042019.resources
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csproj.GenerateResource.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.csproj.CopyComplete
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.EventData\obj\Debug\StoreApp.EventData.pdb

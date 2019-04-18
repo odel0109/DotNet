@@ -1,0 +1,212 @@
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Web.UI.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Web.UI.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Web.UI.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csc.exe
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csc.exe.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csc.rsp
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csi.exe
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csi.exe.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csi.rsp
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.AppContext.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Console.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\vbc.exe
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\vbc.exe.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\vbc.rsp
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Common.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Abstract.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.BusinessLogic.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.EventData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.LanguageData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.ProductData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Helpers.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Mvc.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Razor.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\WebActivator.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Abstract.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Abstract.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.BusinessLogic.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.BusinessLogic.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.EventData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.EventData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.LanguageData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.LanguageData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.ProductData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.ProductData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Common.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Common.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Mvc.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Razor.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Helpers.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Mvc.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.csproj.CopyComplete
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Web.UI.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Web.UI.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Web.UI.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csc.exe
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csc.exe.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csc.rsp
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csi.exe
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csi.exe.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\csi.rsp
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.AppContext.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Console.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\vbc.exe
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\vbc.exe.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\vbc.rsp
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Common.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Abstract.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.BusinessLogic.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.EventData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.LanguageData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.ProductData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Helpers.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Mvc.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Razor.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\WebActivator.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Abstract.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.Abstract.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.BusinessLogic.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.BusinessLogic.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.EventData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.EventData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.LanguageData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.LanguageData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.ProductData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\StoreApp.ProductData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Common.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Common.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Mvc.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Razor.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Helpers.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\System.Web.Mvc.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.csproj.CopyComplete
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Web.UI\obj\Debug\StoreApp.Web.UI.pdb

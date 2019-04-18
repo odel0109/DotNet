@@ -1,0 +1,312 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F6783B6B-B175-4A5F-8A71-74F4704B9937}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StoreApp.Web.UI</RootNamespace>
+    <AssemblyName>StoreApp.Web.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Ninject, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.0.1.10\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web.Common, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.Web.Common.3.0.0.7\lib\net45-full\Ninject.Web.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.MVC3.3.0.0.6\lib\net45-full\Ninject.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WebActivator, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebActivator.1.5\lib\net40\WebActivator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="ObsoleteContent\2 - adidas\checkout.html" />
+    <Content Include="Content\etalage.css" />
+    <Content Include="Content\form.css" />
+    <Content Include="Content\megamenu.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="ObsoleteContent\2 - adidas\images\arrow.png" />
+    <Content Include="Content\Images\arrow2.gif" />
+    <Content Include="ObsoleteContent\2 - adidas\images\arrows.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\as.png" />
+    <Content Include="Content\Images\b-arrow.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\banner1.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\banner2.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\border.png" />
+    <Content Include="Content\Images\b_star.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\down_arrow.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\f_icon.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\f_icon1.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\f_icon2.png" />
+    <Content Include="Content\Images\img-sprite.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\logo.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\nav_img.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\nav_img1.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\nav_img2.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\nz.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic1.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic10.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic11.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic2.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic3.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic4.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic5.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic6.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic7.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic8.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pic9.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\pk.png" />
+    <Content Include="Content\Images\plus.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\radius.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\srl.png" />
+    <Content Include="Content\Images\star.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\s_arrow.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\t1.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\t2.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\t3.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\t4.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\t5.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\t6.jpg" />
+    <Content Include="ObsoleteContent\2 - adidas\images\uk.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\us.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\wish.png" />
+    <Content Include="ObsoleteContent\2 - adidas\images\zoom.png" />
+    <Content Include="ObsoleteContent\2 - adidas\index.html" />
+    <Content Include="Scripts\easing.js" />
+    <Content Include="Scripts\jquery.etalage.min.js" />
+    <Content Include="ObsoleteContent\2 - adidas\js\jquery.flexisel.js" />
+    <Content Include="Scripts\jquery.jscrollpane.min.js" />
+    <Content Include="ObsoleteContent\2 - adidas\js\jquery.min.js" />
+    <Content Include="ObsoleteContent\2 - adidas\js\jquery.wmuSlider.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
+    <Content Include="Scripts\megamenu.js" />
+    <Content Include="Scripts\move-top.js" />
+    <Content Include="ObsoleteContent\2 - adidas\login.html" />
+    <Content Include="ObsoleteContent\2 - adidas\register.html" />
+    <Content Include="ObsoleteContent\2 - adidas\shop.html" />
+    <Content Include="ObsoleteContent\2 - adidas\single.html" />
+    <Content Include="ObsoleteContent\2 - adidas\w3layouts-license.txt" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="ObsoleteContent\2 - adidas\images\arrows.psd" />
+    <Content Include="ObsoleteContent\2 - adidas\images\fb.psd" />
+    <Content Include="ObsoleteContent\2 - adidas\images\g+.psd" />
+    <Content Include="Content\Images\img-sprite.psd" />
+    <Content Include="ObsoleteContent\2 - adidas\images\logo.psd" />
+    <Content Include="ObsoleteContent\2 - adidas\images\radius.psd" />
+    <Content Include="ObsoleteContent\2 - adidas\images\social.psd" />
+    <Content Include="Content\Images\star.psd" />
+    <Content Include="ObsoleteContent\2 - adidas\images\s_arrow.psd" />
+    <Content Include="ObsoleteContent\2 - adidas\images\Thumbs.db" />
+    <Content Include="ObsoleteContent\2 - adidas\images\tw.psd" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\NinjectWebCommon.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\NavigationController.cs" />
+    <Compile Include="Controllers\ShopController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Infrastructure\CustomNinjectDependencyResolver.cs" />
+    <Compile Include="Infrastructure\HtmlHelperExtensions.cs" />
+    <Compile Include="Models\ProductListViewModel.cs" />
+    <Compile Include="Models\PagingInfo.cs" />
+    <Compile Include="Models\PagingViewModel.cs" />
+    <Compile Include="Models\ListViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Navigation\Menu.cshtml" />
+    <Content Include="Views\Shop\ProductList.cshtml" />
+    <Content Include="Views\Shared\ProductItem.cshtml" />
+    <Content Include="Views\Shared\Paging.cshtml" />
+    <Content Include="Views\Shop\ProductDetails.cshtml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="ObsoleteContent\2 - adidas\css\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StoreApp.Abstract\StoreApp.Abstract.csproj">
+      <Project>{5707deae-6ec8-47d2-b3a4-ce7216f0f988}</Project>
+      <Name>StoreApp.Abstract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StoreApp.BusinessLogic\StoreApp.BusinessLogic.csproj">
+      <Project>{c81b2392-74b1-4647-b560-c59fb963a88b}</Project>
+      <Name>StoreApp.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StoreApp.EventData\StoreApp.EventData.csproj">
+      <Project>{a97ce584-7ec2-4d25-b49d-cdbea3deccf4}</Project>
+      <Name>StoreApp.EventData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StoreApp.LanguageData\StoreApp.LanguageData.csproj">
+      <Project>{88fb943f-818e-4428-b82b-9a221765baa5}</Project>
+      <Name>StoreApp.LanguageData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StoreApp.ProductData\StoreApp.ProductData.csproj">
+      <Project>{c1d17fc2-b325-4913-87b1-83fe2f3aba9b}</Project>
+      <Name>StoreApp.ProductData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51261</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51261/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

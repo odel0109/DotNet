@@ -1,0 +1,18 @@
+﻿@using StoreApp.BusinessLogic.Common
+@using StoreApp.ProductData
+@using StoreApp.EventData
+
+@{
+    ViewBag.Title = "Index";
+    @model IEnumerable<ProductExtended<Product, Discount>>
+}
+
+<h2>Index</h2>
+
+@foreach(var productExt in Model)
+{
+    <div>
+        @productExt.Product.ProductID
+        @productExt.Product.Price
+    </div>
+}

@@ -1,0 +1,28 @@
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\LinqKit.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\LinqKit.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.csproj.CopyComplete
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\LinqKit.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\bin\Debug\LinqKit.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.csproj.CopyComplete
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.Abstract\obj\Debug\StoreApp.Abstract.pdb

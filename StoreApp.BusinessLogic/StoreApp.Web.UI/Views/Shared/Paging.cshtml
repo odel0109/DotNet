@@ -1,0 +1,6 @@
+﻿@model StoreApp.Web.UI.Models.PagingViewModel
+
+@for (int i = 1; i <= Model.PagingInfo.TotalPages; i++)
+{
+    <li><a href="@Model.UrlGenerationRule(i)" style="@(i == Model.PagingInfo.CurrentPage ? "font-size:20px;" : "")">@i.ToString()</a></li>
+}

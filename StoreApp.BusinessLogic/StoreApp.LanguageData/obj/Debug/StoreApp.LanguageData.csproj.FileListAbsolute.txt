@@ -1,0 +1,34 @@
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.LanguageData.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.LanguageData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.LanguageData.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.Migrations.LanguageMigrations.resources
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csproj.GenerateResource.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csproj.CopyComplete
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.dll
+C:\Users\odel0\Documents\Team development 09-405\MVC StoreApp\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.LanguageData.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.LanguageData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.LanguageData.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.Abstract.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.Abstract.pdb
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\StoreApp.Abstract.dll.config
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csprojResolveAssemblyReference.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.Migrations.LanguageMigrations.resources
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csproj.GenerateResource.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csproj.CoreCompileInputs.cache
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.csproj.CopyComplete
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.dll
+C:\Users\odel0\Desktop\Адель\Git\StoreApp.BusinessLogic\StoreApp.LanguageData\obj\Debug\StoreApp.LanguageData.pdb

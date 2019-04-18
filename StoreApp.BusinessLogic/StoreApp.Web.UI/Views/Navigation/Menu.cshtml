@@ -1,0 +1,29 @@
+﻿@model Dictionary<StoreApp.ProductData.Category, string>
+
+<div class="wrap">
+    <ul class="megamenu skyblue">
+        @{
+            <li>
+                @Html.ActionLink("Home", "ProductList", "Shop", new { selectedCategory = "All" }, new { @class = "color1" })
+            </li>
+            int i = 2;
+            foreach (var categ in Model.Keys)
+            {
+                <li>@Html.RouteLink(
+                        Model[categ],
+                        new
+                        {
+                            controller = "Shop",
+                            action = "ProductList",
+                            selectedCategory = categ.DefaultName
+                        },
+                        new
+                        {
+                            @class = "color" + i % 13 + (categ.DefaultName == ViewBag.SelectedCategory ? "selected" : "")
+                        })</li>
+                i++;
+            }
+        }
+    </ul>
+    <div class="clear"></div>
+</div>
